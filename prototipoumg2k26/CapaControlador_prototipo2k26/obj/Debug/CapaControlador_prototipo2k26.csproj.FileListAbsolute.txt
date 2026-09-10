@@ -7,3 +7,4 @@ C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaControlador_prototipo2k26\bin\Debug\CapaModelo_prototipoumg2k26.dll
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaControlador_prototipo2k26\bin\Debug\CapaModelo_prototipoumg2k26.pdb
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaControlador_prototipo2k26\obj\Debug\CapaCont.9803832A.Up2Date
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaControlador_prototipo2k26\bin\Debug\System.ComponentModel.Annotations.dll
