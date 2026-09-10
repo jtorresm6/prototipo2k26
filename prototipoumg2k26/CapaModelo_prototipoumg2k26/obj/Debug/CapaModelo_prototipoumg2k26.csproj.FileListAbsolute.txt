@@ -6,3 +6,5 @@ C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\obj\Debug\CapaModelo_prototipoumg2k26.pdb
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\bin\Debug\System.ComponentModel.Annotations.dll
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\obj\Debug\CapaMode.3405D4AA.Up2Date
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\bin\Debug\System.Data.Odbc.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\bin\Debug\System.Data.Odbc.xml
