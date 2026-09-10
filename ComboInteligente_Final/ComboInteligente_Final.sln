@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Modelo_Combol", "CapaM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Controlador_Combol", "CapaControlador_Combol\Capa_Controlador_Combol.csproj", "{E85D7203-D299-4542-8731-D99DEA224A34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Vista_Combol", "Capa_Vista_Combol\Capa_Vista_Combol.csproj", "{0580CD36-F535-474B-B46F-2BFA264DA4F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E85D7203-D299-4542-8731-D99DEA224A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E85D7203-D299-4542-8731-D99DEA224A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E85D7203-D299-4542-8731-D99DEA224A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0580CD36-F535-474B-B46F-2BFA264DA4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0580CD36-F535-474B-B46F-2BFA264DA4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0580CD36-F535-474B-B46F-2BFA264DA4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0580CD36-F535-474B-B46F-2BFA264DA4F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
