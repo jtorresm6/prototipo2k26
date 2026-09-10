@@ -12,3 +12,4 @@ C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaVista_prototipo2k26\bin\Debug\CapaModelo_prototipoumg2k26.pdb
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaVista_prototipo2k26\obj\Debug\CapaVista_prototipo2k26.Formas.FrmEmpleados.resources
 C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaVista_prototipo2k26\obj\Debug\CapaVista_prototipo2k26.csproj.GenerateResource.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaVista_prototipo2k26\obj\Debug\CapaVista_prototipo2k26.Combo.resources

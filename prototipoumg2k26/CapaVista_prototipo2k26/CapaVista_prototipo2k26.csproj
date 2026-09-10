@@ -51,6 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ayudas\ValidacionDatos.cs" />
+    <Compile Include="Combo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Combo.Designer.cs">
+      <DependentUpon>Combo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formas\FrmEmpleados.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +70,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <EmbeddedResource Include="Combo.resx">
+      <DependentUpon>Combo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formas\FrmEmpleados.resx">
       <DependentUpon>FrmEmpleados.cs</DependentUpon>
     </EmbeddedResource>

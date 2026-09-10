@@ -24,6 +24,13 @@ namespace CapaVista_prototipo2k26.Formas
         private void FrmEmpleados_Load(object sender, EventArgs e)
         {
             listaEmpleados();
+
+            // Llena el combo al abrir la pantalla filtrando por estado activo ("1")
+            // Ajusta los nombres de la tabla y columnas a los reales de tu BD
+            comboPuestos.llenarCombo("tbl_puestos", "id_puesto", "nombre_puesto", "estado_puesto", "1");
+
+            // Valor por defecto del estado del empleado
+            cboEstado.SelectedIndex = 0; // "Activo"
         }
 
         private void listaEmpleados()
@@ -58,8 +65,13 @@ namespace CapaVista_prototipo2k26.Formas
             empleado.fecha_nacimiento = txtNacimiento.Value;
             empleado.direccion_emp = txtDireccion.Text;
             empleado.fecha_contratacion = txtContrataacion.Value;
-            empleado.estado_emp = txtEstado.Text;
-            empleado.id_puesto = string.IsNullOrEmpty(txtPuesto.Text) ? 0 : Convert.ToInt32(txtPuesto.Text);
+
+            // Estado tomado del combo fijo (Activo/Inactivo) en vez de texto libre
+            empleado.estado_emp = cboEstado.SelectedItem?.ToString() ?? "Activo";
+
+            // Extrae la clave seleccionada desde el control personalizado
+            object valCombo = comboPuestos.ObtenerValor();
+            empleado.id_puesto = valCombo != null ? Convert.ToInt32(valCombo) : 0;
 
             bool valido = new Ayudas.ValidacionDatos(empleado).Validar();
             if (valido)
@@ -83,8 +95,10 @@ namespace CapaVista_prototipo2k26.Formas
             txtNacimiento.Value = DateTime.Today;
             txtDireccion.Clear();
             txtContrataacion.Value = DateTime.Today;
-            txtEstado.Clear();
-            txtPuesto.Clear();
+            cboEstado.SelectedIndex = 0; // "Activo" por defecto
+
+            // Limpia la selección del componente Combo
+            comboPuestos.Limpiar();
         }
 
         private void btnNuevo_Click(object sender, EventArgs e)
@@ -114,8 +128,14 @@ namespace CapaVista_prototipo2k26.Formas
                 txtNacimiento.Value = empleado.fecha_nacimiento;
                 txtDireccion.Text = empleado.direccion_emp;
                 txtContrataacion.Value = empleado.fecha_contratacion;
-                txtEstado.Text = empleado.estado_emp;
-                txtPuesto.Text = empleado.id_puesto.ToString();
+
+                // Selecciona en el combo el estado guardado; si no coincide con
+                // "Activo"/"Inactivo" (ej. datos previos con basura), cae a "Activo"
+                int idx = cboEstado.Items.IndexOf(empleado.estado_emp);
+                cboEstado.SelectedIndex = idx >= 0 ? idx : 0;
+
+                // Selecciona el valor del puesto en el combo según la fila a editar
+                comboPuestos.SeleccionarValor(empleado.id_puesto);
             }
             else
             {
@@ -141,6 +161,11 @@ namespace CapaVista_prototipo2k26.Formas
             {
                 MessageBox.Show("Seleccione una fila");
             }
+        }
+
+        private void comboPuestos_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

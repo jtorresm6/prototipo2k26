@@ -1,0 +1,9 @@
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\bin\Debug\CapaModelo_prototipoumg2k26.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\bin\Debug\CapaModelo_prototipoumg2k26.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\obj\Debug\Capa_Modelo_Combol.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\obj\Debug\Capa_Modelo_Combol.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\obj\Debug\CapaModelo_prototipoumg2k26.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\obj\Debug\CapaModelo_prototipoumg2k26.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\bin\Debug\System.Data.Odbc.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\bin\Debug\System.Data.Odbc.xml
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaModelo_prototipoumg2k26\obj\Debug\Capa_Mod.20F53467.Up2Date

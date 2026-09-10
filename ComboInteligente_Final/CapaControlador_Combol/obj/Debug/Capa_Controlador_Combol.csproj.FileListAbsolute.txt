@@ -1,0 +1,11 @@
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\bin\Debug\CapaControlador_Combol.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\bin\Debug\CapaControlador_Combol.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\obj\Debug\Capa_Controlador_Combol.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\obj\Debug\Capa_Controlador_Combol.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\obj\Debug\CapaControlador_Combol.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\obj\Debug\CapaControlador_Combol.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\bin\Debug\CapaModelo_prototipoumg2k26.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\bin\Debug\CapaModelo_prototipoumg2k26.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\obj\Debug\Capa_Con.D7548C9A.Up2Date
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\bin\Debug\System.Data.Odbc.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\CapaControlador_Combol\bin\Debug\System.Data.Odbc.xml

@@ -39,7 +39,7 @@
             this.txtContrataacion = new System.Windows.Forms.DateTimePicker();
             this.txtNacimiento = new System.Windows.Forms.DateTimePicker();
             this.txtDpi = new System.Windows.Forms.TextBox();
-            this.txtEstado = new System.Windows.Forms.TextBox();
+            this.cboEstado = new System.Windows.Forms.ComboBox();
             this.txtPuesto = new System.Windows.Forms.TextBox();
             this.txtDireccion = new System.Windows.Forms.TextBox();
             this.txtApellido = new System.Windows.Forms.TextBox();
@@ -58,6 +58,7 @@
             this.lblDpiEmpleado = new System.Windows.Forms.Label();
             this.lblIdEmpleado = new System.Windows.Forms.Label();
             this.btnBuscar = new System.Windows.Forms.Button();
+            this.comboPuestos = new CapaVista_prototipo2k26.Combo();
             ((System.ComponentModel.ISupportInitialize)(this.dgvEmpleados)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -72,11 +73,11 @@
             // dgvEmpleados
             // 
             this.dgvEmpleados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvEmpleados.Location = new System.Drawing.Point(44, 71);
+            this.dgvEmpleados.Location = new System.Drawing.Point(44, 80);
             this.dgvEmpleados.Name = "dgvEmpleados";
             this.dgvEmpleados.RowHeadersWidth = 51;
             this.dgvEmpleados.RowTemplate.Height = 24;
-            this.dgvEmpleados.Size = new System.Drawing.Size(805, 302);
+            this.dgvEmpleados.Size = new System.Drawing.Size(805, 308);
             this.dgvEmpleados.TabIndex = 1;
             // 
             // btnAyuda
@@ -137,7 +138,7 @@
             this.panel1.Controls.Add(this.txtContrataacion);
             this.panel1.Controls.Add(this.txtNacimiento);
             this.panel1.Controls.Add(this.txtDpi);
-            this.panel1.Controls.Add(this.txtEstado);
+            this.panel1.Controls.Add(this.cboEstado);
             this.panel1.Controls.Add(this.txtPuesto);
             this.panel1.Controls.Add(this.txtDireccion);
             this.panel1.Controls.Add(this.txtApellido);
@@ -184,12 +185,17 @@
             this.txtDpi.Size = new System.Drawing.Size(163, 22);
             this.txtDpi.TabIndex = 20;
             // 
-            // txtEstado
+            // cboEstado
             // 
-            this.txtEstado.Location = new System.Drawing.Point(110, 281);
-            this.txtEstado.Name = "txtEstado";
-            this.txtEstado.Size = new System.Drawing.Size(160, 22);
-            this.txtEstado.TabIndex = 18;
+            this.cboEstado.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cboEstado.FormattingEnabled = true;
+            this.cboEstado.Items.AddRange(new object[] {
+            "Activo",
+            "Inactivo"});
+            this.cboEstado.Location = new System.Drawing.Point(110, 281);
+            this.cboEstado.Name = "cboEstado";
+            this.cboEstado.Size = new System.Drawing.Size(160, 24);
+            this.cboEstado.TabIndex = 18;
             // 
             // txtPuesto
             // 
@@ -343,12 +349,21 @@
             this.btnBuscar.UseVisualStyleBackColor = true;
             this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
+            // comboPuestos
+            // 
+            this.comboPuestos.Location = new System.Drawing.Point(63, 52);
+            this.comboPuestos.Name = "comboPuestos";
+            this.comboPuestos.Size = new System.Drawing.Size(718, 28);
+            this.comboPuestos.TabIndex = 9;
+            this.comboPuestos.Load += new System.EventHandler(this.comboPuestos_Load);
+            // 
             // FrmEmpleados
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLight;
             this.ClientSize = new System.Drawing.Size(1237, 450);
+            this.Controls.Add(this.comboPuestos);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnBorrar);
@@ -384,7 +399,7 @@
         private System.Windows.Forms.Label lblDpiEmpleado;
         private System.Windows.Forms.Label lblIdEmpleado;
         private System.Windows.Forms.TextBox txtDpi;
-        private System.Windows.Forms.TextBox txtEstado;
+        private System.Windows.Forms.ComboBox cboEstado;
         private System.Windows.Forms.TextBox txtPuesto;
         private System.Windows.Forms.TextBox txtDireccion;
         private System.Windows.Forms.TextBox txtApellido;
@@ -401,5 +416,6 @@
         private System.Windows.Forms.DateTimePicker txtNacimiento;
         private System.Windows.Forms.DateTimePicker txtContrataacion;
         private System.Windows.Forms.Button btnBuscar;
+        private Combo comboPuestos;
     }
 }

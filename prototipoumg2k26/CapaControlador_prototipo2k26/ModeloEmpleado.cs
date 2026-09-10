@@ -11,6 +11,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace CapaControlador_prototipo2k26
 {
+
     public class ModeloEmpleado
     {
         private int _id_empleado;
@@ -141,4 +142,5 @@ namespace CapaControlador_prototipo2k26
             return ListaEmpleados.FindAll(e => e._dpi_emp.Contains(filter) || e._nombre_emp.Contains(filter));
         }
     }
+
 }

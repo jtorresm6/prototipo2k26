@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E85D7203-D299-4542-8731-D99DEA224A34}|CapaControlador_Combol\\Capa_Controlador_Combol.csproj|c:\\users\\josej\\documents\\estudios2025\\practica 2\\prototipo2k26\\combointeligente_final\\capacontrolador_combol\\modelocomoboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85D7203-D299-4542-8731-D99DEA224A34}|CapaControlador_Combol\\Capa_Controlador_Combol.csproj|solutionrelative:capacontrolador_combol\\modelocomoboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0580CD36-F535-474B-B46F-2BFA264DA4F7}|Capa_Vista_Combol\\Capa_Vista_Combol.csproj|c:\\users\\josej\\documents\\estudios2025\\practica 2\\prototipo2k26\\combointeligente_final\\capa_vista_combol\\comboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0580CD36-F535-474B-B46F-2BFA264DA4F7}|Capa_Vista_Combol\\Capa_Vista_Combol.csproj|solutionrelative:capa_vista_combol\\comboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0580CD36-F535-474B-B46F-2BFA264DA4F7}|Capa_Vista_Combol\\Capa_Vista_Combol.csproj|c:\\users\\josej\\documents\\estudios2025\\practica 2\\prototipo2k26\\combointeligente_final\\capa_vista_combol\\comboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0580CD36-F535-474B-B46F-2BFA264DA4F7}|Capa_Vista_Combol\\Capa_Vista_Combol.csproj|solutionrelative:capa_vista_combol\\comboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\Capa_Modelo_Combol.csproj|c:\\users\\josej\\documents\\estudios2025\\practica 2\\prototipo2k26\\combointeligente_final\\capamodelo_prototipoumg2k26\\repositorios\\repositorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\Capa_Modelo_Combol.csproj|solutionrelative:capamodelo_prototipoumg2k26\\repositorios\\repositorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\Capa_Modelo_Combol.csproj|c:\\users\\josej\\documents\\estudios2025\\practica 2\\prototipo2k26\\combointeligente_final\\capamodelo_prototipoumg2k26\\repositorios\\repositorioscomboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\Capa_Modelo_Combol.csproj|solutionrelative:capamodelo_prototipoumg2k26\\repositorios\\repositorioscomboi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\CapaModelo_prototipoumg2k26.csproj|C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\capamodelo_prototipoumg2k26\\repositorios\\repositorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\CapaModelo_prototipoumg2k26.csproj|solutionrelative:capamodelo_prototipoumg2k26\\repositorios\\repositorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\CapaModelo_prototipoumg2k26.csproj|C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\capamodelo_prototipoumg2k26\\repositorios\\repositorioscombol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54C259F-84AB-45C7-ADAC-4972F984CF7F}|CapaModelo_prototipoumg2k26\\CapaModelo_prototipoumg2k26.csproj|solutionrelative:capamodelo_prototipoumg2k26\\repositorios\\repositorioscombol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboI.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\Capa_Vista_Combol\\ComboI.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_Combol\\ComboI.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\Capa_Vista_Combol\\ComboI.cs",
+              "RelativeToolTip": "Capa_Vista_Combol\\ComboI.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:51:07.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboI.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\Capa_Vista_Combol\\ComboI.cs",
+              "RelativeDocumentMoniker": "Capa_Vista_Combol\\ComboI.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\Capa_Vista_Combol\\ComboI.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Vista_Combol\\ComboI.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:49:53.457Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModeloComoboI.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaControlador_Combol\\ModeloComoboI.cs",
+              "RelativeDocumentMoniker": "CapaControlador_Combol\\ModeloComoboI.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaControlador_Combol\\ModeloComoboI.cs",
+              "RelativeToolTip": "CapaControlador_Combol\\ModeloComoboI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:48:08.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repositorios.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "RelativeDocumentMoniker": "CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "RelativeToolTip": "CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:43:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoriosComboI.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboI.cs",
+              "RelativeDocumentMoniker": "CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboI.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboI.cs",
+              "RelativeToolTip": "CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:40:10.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoriosComboL.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboL.cs",
+              "RelativeDocumentMoniker": "CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboL.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboL.cs",
+              "RelativeToolTip": "CapaModelo_prototipoumg2k26\\Repositorios\\RepositoriosComboL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:21:43.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repositorios.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "RelativeDocumentMoniker": "CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Estudios2025\\Practica 2\\prototipo2k26\\ComboInteligente_Final\\CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "RelativeToolTip": "CapaModelo_prototipoumg2k26\\Repositorios\\Repositorios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:21:21.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

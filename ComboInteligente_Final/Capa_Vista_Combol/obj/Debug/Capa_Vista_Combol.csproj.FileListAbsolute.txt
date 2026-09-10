@@ -1,0 +1,14 @@
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\bin\Debug\Capa_Vista_Combol.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\obj\Debug\Capa_Vista_Combol.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\obj\Debug\Capa_Vista_Combol.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\obj\Debug\Capa_Vista_Combol.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\obj\Debug\Capa_Vista_Combol.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\obj\Debug\Capa_Vista_Combol.ComboI.resources
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\obj\Debug\Capa_Vista_Combol.csproj.GenerateResource.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\bin\Debug\CapaControlador_Combol.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\bin\Debug\CapaModelo_prototipoumg2k26.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\bin\Debug\CapaControlador_Combol.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\bin\Debug\CapaModelo_prototipoumg2k26.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\obj\Debug\Capa_Vis.6A0DE772.Up2Date
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\bin\Debug\System.Data.Odbc.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\ComboInteligente_Final\Capa_Vista_Combol\bin\Debug\System.Data.Odbc.xml
