@@ -1,0 +1,24 @@
+commit ba716b68f7185333c403fb54189ea43858fa55bd (HEAD -> main, origin/main, origin/HEAD)
+Merge: a71f155 4e0951c
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Thu Sep 10 01:23:33 2026 -0600
+
+    Merge branch 'main' of https://github.com/jtorresm6/prototipo2k26
+
+commit a71f1550bd01f842d95220dbdeae0588777ba6d8
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Thu Sep 10 01:23:28 2026 -0600
+
+    Cambio Final
+
+commit 4e0951c26d42da0af7594ef438eb09ddacc6226c
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Wed Sep 9 23:29:11 2026 -0600
+
+    Cambios de capa
+
+commit 8e4b0fb671adbacd032b9744eb36f4fd97f9b48a
+Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+Date:   Wed Sep 9 23:28:17 2026 -0600
+
+    Regenerar archivo de solución .sln
