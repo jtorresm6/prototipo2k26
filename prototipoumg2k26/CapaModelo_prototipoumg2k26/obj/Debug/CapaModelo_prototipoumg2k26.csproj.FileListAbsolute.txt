@@ -1,0 +1,6 @@
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\bin\Debug\CapaModelo_prototipoumg2k26.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\bin\Debug\CapaModelo_prototipoumg2k26.pdb
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\obj\Debug\CapaModelo_prototipoumg2k26.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\obj\Debug\CapaModelo_prototipoumg2k26.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\obj\Debug\CapaModelo_prototipoumg2k26.dll
+C:\Users\josej\Documents\Estudios2025\Practica 2\prototipo2k26\prototipoumg2k26\CapaModelo_prototipoumg2k26\obj\Debug\CapaModelo_prototipoumg2k26.pdb
